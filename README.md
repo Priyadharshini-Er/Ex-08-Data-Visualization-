@@ -183,7 +183,7 @@ plt.ylabel('Value')
 plt.legend(title='Region')
 plt.show()
 ```
-# OUTPUT
+# OUTPUT:
 ![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/91702bf9-e553-4326-a009-eb0363cceb4c)
 ![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/81bbe7a8-c451-44ae-a945-a28f29268b12)
 ![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/05591653-b175-4d61-9d77-fc06a565f927)
@@ -193,3 +193,21 @@ plt.show()
 ![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/47388148-a922-4cc5-b1b8-0a6810993d1a)
 ![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/d77f4c18-b707-4e15-b61a-282694a43f8e)
 ![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/146ca225-eb4d-422e-ac98-b6bd1e3b12fd)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/41a186f6-5d9c-4d70-9a03-670a7c15e9df)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/2a6cd428-a7d9-4ad8-86df-aa3c5282ac94)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/ed353f22-3782-4a1e-82bf-1c7ad5616649)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/7c5cbc01-cca5-4408-a8c3-e592fa518e23)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/c765e8d7-050e-44da-86e2-e6df0206b9cf)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/278f2e73-151f-4cf6-8132-02442d77acc1)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/766a5d13-3870-43cb-a55f-aa94cc45425b)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/a1efcac9-718f-4b16-89b4-9b8a71b7c36f)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/cfbaae56-4596-4914-8261-2061ab17a30c)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/3d2fc622-b7b3-42cb-888a-fb29e21d3b5f)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/77133752-d3d9-4fbb-b02f-966ee66586fe)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/26637fc1-ab65-460d-9913-c123675822a7)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/7331c175-f43a-4601-a429-be451116f668)
+![image](https://github.com/Priyadharshini-Er/Ex-08-Data-Visualization-/assets/119558093/6ebaea01-4d54-4542-b79c-3267da4448fc)
+
+# RESULT:
+Thus, Data Visualization is performed on the given dataset and save the data to a file.
+
